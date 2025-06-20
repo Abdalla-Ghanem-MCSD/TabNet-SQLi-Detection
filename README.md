@@ -51,4 +51,12 @@ The goal is to provide:
 ---
 
 ## 📂 Project Structure
+📁 TabNet-SQLi-Detection/
+│
+├── TabNet_SQLi_Detection.ipynb # Main notebook for training and evaluation
+├── Modified_SQL_Dataset.csv # Dataset (if public or example provided)
+├── requirements.txt # Python dependencies
+├── README.md # Project documentation
+
+
 
